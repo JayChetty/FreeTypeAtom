@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "freetype:toggle"
   },
-  "repository": "https://github.com/atom/freetype",
+  "repository": "https://github.com/JayChetty/FreeTypeAtom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
