@@ -1,7 +1,7 @@
 {
   "name": "freetype",
   "main": "./lib/freetype",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Allows using the freetype mechanic in atom",
   "activationCommands": {
     "atom-workspace": "freetype:toggle"
@@ -11,6 +11,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
