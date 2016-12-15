@@ -2,7 +2,7 @@
   "name": "freetype",
   "main": "./lib/freetype",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Allows using the freetype mechanic in atom",
   "activationCommands": {
     "atom-workspace": "freetype:toggle"
   },
